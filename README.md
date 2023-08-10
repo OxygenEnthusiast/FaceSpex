@@ -6,8 +6,8 @@ For a much quicker installation, you can download pregenerated data.
 
 To do that: 
 
-1. Download and unzip gen_faces.zip.
-2. Load the generated directory to the base directory in your google drive.
+1. Download the gen_faces directory.
+2. Load it to the base directory in your google drive.
 
 If you want to project the latent vectors and/or generate the 
 attribute directions yourself, you can simply delete them from the generated
