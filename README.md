@@ -10,6 +10,6 @@ To do that:
 2. Load it to the base directory in your google drive.
 
 If you want to project the latent vectors and/or generate the 
-attribute directions yourself, you can simply delete them from the generated
+attribute directions yourself, you can simply delete them from the
 directory. Note that projecting the images can take up to 2 days, generating the 
 directions takes ~15 minutes.
