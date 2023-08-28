@@ -14,6 +14,8 @@ attribute directions yourself, you can simply delete them from the
 directory. Note that projecting the images can take up to 2 days, generating the 
 directions takes ~15 minutes.
 
+## Usage 
+
 To run the script open 
 [gen_faces.ipynb](https://github.com/OxygenEnthusiast/generate_faces/blob/main/gen_face.ipynb)
 and click ''open on colab'' on top of the notebook.
