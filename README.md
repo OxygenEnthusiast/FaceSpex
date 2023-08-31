@@ -42,10 +42,11 @@ For a much quicker installation, you can download pregenerated data.
 
 To do that: 
 
-1. Download gen_faces/attr_dirs.pkl from this repo. (Click
+1. Download the gen_faces/attr_dirs.pkl file from this repo. (Click
     [here](https://github.com/OxygenEnthusiast/generate_faces/raw/main/gen_faces/attr_dirs.pkl))
-2. Create a folder called gen_faces in the base folder of your google drive.
-3. Put the attr_dirs.pkl file into the created folder.
+2. Log into google drive
+3. Create a folder called gen_faces in the base folder of your google drive.
+4. Put the attr_dirs.pkl file into the created folder.
 
 ### Calculate the directions yourself (not recommended)
 
@@ -77,3 +78,25 @@ cell (''Main Code'') for any subsequent runs.
 - When calculating the empirical 
     mean and standard deviation, use a set of images more representative of the
     human population.
+
+## Credits
+
+This Project would not have been possible without 
+[J.C. Petersons One Million Impressions Dataset](https://github.com/jcpeterson/omi)
+and
+[StyleGAN2-ada](https://github.com/NVlabs/stylegan2-ada-pytorch).
+Special Credit goes to the paper by Peterson et al. titled 
+"Deep models of superficial face judgment" where most of the ideas 
+used here are described.
+
+## License?
+
+Since both the
+[omi-dataset license](https://github.com/jcpeterson/omi/blob/main/LICENSE.txt)
+and
+[StyleGAN license](https://github.com/NVlabs/stylegan2-ada-pytorch/blob/main/LICENSE.txt)
+are non-commercial,
+I have no idea what license to use to make my work open source.
+
+Feel free to suggest changes and 
+use this code yourself.
