@@ -1,5 +1,7 @@
 # FaceSpex
 
+![A faace with varying](header.png)
+
 FaceSpex empowers users to effortlessly generate high-quality facial images with precisely
 definable superficial attributes, such as trustworthiness, attractiveness, and more. 
 
